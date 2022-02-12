@@ -20,7 +20,7 @@ I'm Talha,  I’m currently learning Golang
 
 
 <p align="center">
-<a href="https://www.codewars.com/users/fmelihh" target="blank"><img align="center" src="https://www.codewars.com/users/Talha-Guller1/badges/small" alt="Talha-Guller1"/></a>
+<a href="https://www.codewars.com/users/Talha-Guller1" target="blank"><img align="center" src="https://www.codewars.com/users/Talha-Guller1/badges/small" alt="Talha-Guller1"/></a>
 </p>
 
 
