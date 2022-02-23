@@ -7,7 +7,7 @@ I'm Talha,  I’m currently learning Golang
 
 <p align="center">
 <a a>
-<a href="mailto:talhaguller@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-talhaguller@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:talhaguller7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-talhaguller7@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/talha-guller/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@talhaguller-blue?style=flat&logo=linkedin"></a>
 </p>
 
