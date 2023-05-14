@@ -1,7 +1,7 @@
 
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
-I'm Talha,  I’m currently learning Golang
+I'm Talha, currently working in the Backend area
 
 <h3 align="center">Connect with me:</h3>
 
